@@ -4,6 +4,8 @@ Repository based on the tutorial from Xebia: http://nauts.io/workshop-docker-int
 
 ## Install
 
+Refer to https://docs.docker.com/engine/installation/ to install the Docker engine on your host machine.
+
 ```
 docker pull tomcat
 ```
