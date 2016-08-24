@@ -33,3 +33,10 @@ curl http://localhost:32771
 -- this simpler version didn't work on macosx: curl http://localhost:$PORT
 ```
 
+## List running docker images
+
+```
+docker ps
+```
+
+
