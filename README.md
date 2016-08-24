@@ -41,4 +41,10 @@ curl http://localhost:32771
 docker ps
 ```
 
+## Remove a docker image
+
+```
+docker rmi ebabel-eu/tomcat:latest
+```
+
 
